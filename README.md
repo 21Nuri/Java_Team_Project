@@ -21,10 +21,8 @@
 
 [UML diagram of classes and interfaces]   
 ----------
-- UML diagram
-- Classes and interfaces
+> <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UML.png?raw=true" width= 1000><br>    
 --------
-
 [github link]   
 ----------
 - <https://github.com/21Nuri/Java_Team_Project.git>
