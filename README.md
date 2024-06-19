@@ -27,9 +27,9 @@
 
 [github link]   
 ----------
-<https://github.com/21Nuri/Java_Team_Project.git>
---------
+- <https://github.com/21Nuri/Java_Team_Project.git>
 
+--------
 [User's guide]   
 ----------
 
