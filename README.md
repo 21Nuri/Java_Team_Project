@@ -40,42 +40,42 @@
 > > The top part of the Button Panel indicates the status of the tool.   
 > 
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide4.png?raw=true" width=300><br>
-> > This is the window that appears when you press the thickness button on the Button Panel.    
+> > This is the window that appears when you press the thickness button on the Button Panel.      
 > > Here you can enter and modify the thickness of the pen or use the scroll below to select the thickness.
 > 
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide5.png?raw=true" width=300><br>
-> > This is the window that appears when you press the T attribute on the Button Panel.
+> > This is the window that appears when you press the T attribute on the Button Panel.     
 > > In this window, you can modify the thickness and font of the text.  
 > 
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide6.png?raw=true" width=300><br>
-> > This is the window that appears when you press the T box on the Button Panel.
+> > This is the window that appears when you press the T box on the Button Panel.    
 > > In this window, you can see the current state of the text and enter text.
 > 
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide7.png?raw=true" width=300><br>
-> > This is the window that appears when you press the color palette on the Button Panel.  
+> > This is the window that appears when you press the color palette on the Button Panel.      
 > > In this window, you can select a color, and the selected color can be seen at the top of the Button Panel.   
 >
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide12.png?raw=true" width=300><br>
-> > Below the tool status window, you can find options to clear all or erase pixels.
+> > Below the tool status window, you can find options to clear all or erase pixels.     
 > 
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide8.png?raw=true" width=700><br>
-> > This is a window where drawings are made using the pen, line, square, circle, and text tools in order.
+> > This is a window where drawings are made using the pen, line, square, circle, and text tools in order.    
 > 
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide9.png?raw=true" width=700><br>
-> > This is a window where drawings are made by changing the color and thickness.
+> > This is a window where drawings are made by changing the color and thickness.     
 > 
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide10.png?raw=true" width=300><br>
-> > When you place the mouse cursor on the whiteboard, you can check the x and y coordinates.
+> > When you place the mouse cursor on the whiteboard, you can check the x and y coordinates.   
 > 
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide11.png?raw=true" width=300><br>
-> > In the third tab of the menu bar, you can redo or undo actions.
+> > In the third tab of the menu bar, you can redo or undo actions.    
 >
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide13.png?raw=true" width=300><br>
-> > Currently, opening or saving files is not fully functional, so it cannot be used.
+> > Currently, opening or saving files is not fully functional, so it cannot be used.      
 > > For now, you can only check information in the above window. 
 >
 > <img src = "https://github.com/21Nuri/Java_Team_Project/blob/main/Image/UserGuide14.png?raw=true" width=300><br>
-> > The color palette is functional, but the eyedropper tool is incomplete and cannot be used.
+> > The color palette is functional, but the eyedropper tool is incomplete and cannot be used.      
 > 
 
 --------
